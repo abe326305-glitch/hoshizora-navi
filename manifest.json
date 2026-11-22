@@ -1,0 +1,25 @@
+{
+  "name": "星空＆星座ナビ｜読者特典アプリ",
+  "short_name": "星空＆星座ナビ",
+  "description": "スマホをかざすだけで夜空の星座・月・惑星・3D立体星座を楽しめる読者特典Webアプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050914",
+  "theme_color": "#0d1526",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
